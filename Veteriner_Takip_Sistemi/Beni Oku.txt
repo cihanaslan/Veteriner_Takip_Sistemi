@@ -1,0 +1,11 @@
+Veri tabanı hataları için:
+1- PostgreSQL'de vtsDB isimli bir veri tabanı olmalı. 
+2- PostgreSQL kullanıcı adı "postgres" şifresi "1234" olmalıdır.
+3- ...\Veteriner_Takip_Sistemi\Veteriner_Takip_Sistemi\bin\Debug içerisinde bulunan "veteriner_takip_sistemi_database" isimli dosya restore edilebilir.
+
+**RandevuVer.cs içindeki "MailGonder" fonksiyonu düzenlenmelidir (e-mail ve şifresi).
+*monthCalendar1 min-max date değerleri düzenlenmesi gerekebilir.
+
+https://www.pgadmin.org/download/
+
+-Cihan Aslan
